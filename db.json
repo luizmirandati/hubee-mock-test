@@ -22,9 +22,9 @@
 	"items": [
 		{ "productId": 1, "amount": 2 }
 	],
-	"totalPrice": 10.70,
+	"totalPrice": 10.70
   },
   "orders": [
-    { "id": 1, "cartId": 1, "finalized": true },
+    { "id": 1, "cartId": 1, "finalized": true }
   ],
 }
