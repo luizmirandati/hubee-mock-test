@@ -1,24 +1,24 @@
 {
   "products": [
-    { "id": 1, "name": "Post 1", "price": 5.35, "url": '' },
-    { "id": 2, "name": "Post 2", "price": 5.35, "url": '' },
-    { "id": 3, "name": "Post 3", "price": 5.35, "url": '' },
-	{ "id": 4, "name": "Post 1", "price": 5.35, "url": '' },
-    { "id": 5, "name": "Post 2", "price": 5.35, "url": '' },
-    { "id": 6, "name": "Post 3", "price": 5.35, "url": '' },
-	{ "id": 7, "name": "Post 3", "price": 5.35, "url": '' },
-	{ "id": 8, "name": "Post 3", "price": 5.35, "url": '' },
-	{ "id": 9, "name": "Post 3", "price": 5.35, "url": '' },
-	{ "id": 10, "name": "Post 3", "price": 5.35, "url": '' }
+    { "id": 1, "name": "Post 1", "price": 5.35, "url": "" },
+    { "id": 2, "name": "Post 2", "price": 5.35, "url": "" },
+    { "id": 3, "name": "Post 3", "price": 5.35, "url": "" },
+	{ "id": 4, "name": "Post 1", "price": 5.35, "url": "" },
+    { "id": 5, "name": "Post 2", "price": 5.35, "url": "" },
+    { "id": 6, "name": "Post 3", "price": 5.35, "url": "" },
+	{ "id": 7, "name": "Post 3", "price": 5.35, "url": "" },
+	{ "id": 8, "name": "Post 3", "price": 5.35, "url": "" },
+	{ "id": 9, "name": "Post 3", "price": 5.35, "url": "" },
+	{ "id": 10, "name": "Post 3", "price": 5.35, "url": "" }
   ],
   "coupons": [
-    { "key": 'hubee', "isActive": true},
-    { "key": 'hubee++', "isActive": true },
-	{ "key": 'PRIMEIRA_COMPRA', "isActive": false },
+    { "key": "hubee", "isActive": true},
+    { "key": "hubee++", "isActive": true },
+	{ "key": "PRIMEIRA_COMPRA", "isActive": false },
   ],
   "carts": {
 	"id": 1,
-	"coupon": 'hubee',
+	"coupon": "hubee",
 	itens: [
 		{ "productId": 1, "amount": 2 }
 	],
