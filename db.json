@@ -19,7 +19,7 @@
   "carts": {
 	"id": 1,
 	"coupon": "hubee",
-	itens: [
+	"items": [
 		{ "productId": 1, "amount": 2 }
 	],
 	"totalPrice": 10.70,
