@@ -1,0 +1,26 @@
+[
+    {
+       "id":1,
+       "userName":"Teste - FAKE",
+       "refrigeratorName":"Lazise Residencial - FAKE",
+       "totalAmount":16,
+       "discountAmount":8,
+       "amountPaidCreditCard":0,
+       "amountPaidWallet":8,
+       "createdAt":"2023-01-04T19:02:19",
+       "paymentAt":"2023-01-04T19:02:19",
+       "status":"AWAITING_REVIEW"
+    },
+    {
+       "id":2,
+       "userName":"Teste - FAKE 2",
+       "refrigeratorName":"Lazise Residencial - FAKE 2",
+       "totalAmount":20,
+       "discountAmount":10,
+       "amountPaidCreditCard":10,
+       "amountPaidWallet":0,
+       "createdAt":"2023-01-05T19:02:19",
+       "paymentAt":"2023-01-05T19:02:19",
+       "status":"AWAITING_REVIEW"
+    }
+ ]

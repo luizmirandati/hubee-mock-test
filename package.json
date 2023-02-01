@@ -1,0 +1,24 @@
+{
+  "name": "takeandgo-dev-server",
+  "version": "1.0.0",
+  "description": "Json server for takeandgo backoffice web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizmirandati/takeandgo-dev-server.git"
+  },
+  "keywords": [],
+  "author": "Luiz Henrique Miranda de Assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizmirandati/takeandgo-dev-server/issues"
+  },
+  "homepage": "https://github.com/luizmirandati/takeandgo-dev-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

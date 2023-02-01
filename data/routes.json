@@ -1,0 +1,7 @@
+{
+    "/api/v1/*": "/$1",
+    "/:orders": "/:orders",
+    "/:dashboard/type/1":"/dashboard-type-1",
+    "/:dashboard/type/2":"/dashboard-type-2",
+    "/:dashboard/type/3":"/dashboard-type-3"
+}

@@ -1,2 +1,2 @@
-# hubee-mock-test
-Test
+# takeandgo-dev-server
+Json server for takeandgo backoffice web
